@@ -74,7 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : ["중국식 냉면은 맛있어."], "images" : [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1oNd9pGsuX5h7Hwz8FCB6Jt7F7GzsCeAEZOeqGM5bg&s=10]}
+    labels[0] : {"texts" : ["짜장면은 맛있어."], "images" : [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXTJH1mbFW4sysxnFRcorh3OtBcDWTLl6Ne2yclVKCA&s=10]},
+    labels[1] : {"texts" : ["중국식 냉면은 맛있어."], "images" : [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQTNcLoWz3ZnRq_A9JM2RDyoqEXzcXmlW9jkI8teyDw&s=10]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어."], "images" : [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8BYY_vkZUkrQ8F9QLiUMFJomZmXqlc8fSjCXkcRk8Fg&s=10]},
+    labels[3] : {"texts" : ["탕수육은 맛있어."], "images" : [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_sgsAfzRIibibj3j848IiK4k_C7pDm7fnaaeg6siSw&s=10]},
 }
 
 # ======================
